@@ -1,6 +1,14 @@
 Hola
 
 
+<<<<<<< HEAD
 esto es un saludo
 hasta Luego Lucas !!!
 Que soy un Pato !
+=======
+esto es un saludo
+hasta Luego Lucas !!!
+
+
+fin de archivo
+>>>>>>> fin de archivo
